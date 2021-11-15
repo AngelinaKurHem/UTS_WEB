@@ -1,0 +1,52 @@
+/* Body */
+.container{
+    width: 100%;
+    min-height: 200px;
+    background-color: lightgoldenrodyellow;
+}
+
+/* Navbar */
+.navbar{
+    border: yellow;
+}
+
+.navbar a{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+
+/* Tagline */
+.beranda h2{
+    text-align: center;
+    color: black;
+    font-size: 30pt;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    font-family:cursive;
+}
+
+/* Penjelasan Usaha */
+.tentang p{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    font-family: ;
+} 
+
+/* Menu */
+.product h3{
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.product p{
+    font-size: 15px;
+}
+
+/* Coment */
+.coment {
+    margin-top: 100px;
+}
